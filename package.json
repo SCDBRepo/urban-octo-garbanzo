@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@scdb/urban-octo-garbanzo",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/SCDBRepo/urban-octo-garbanzo.git"
   },
   "dependencies": {
+    "@scdb/curly-robot": "^1.0.0",
+    "@scdb/friendly-octo-couscous": "^1.0.4",
+    "@scdb/silver-octo-meme": "^1.0.1",
     "@scdb/simple-http": "^1.0.7",
     "@utilcode/simple-http": "^1.0.1"
   }
